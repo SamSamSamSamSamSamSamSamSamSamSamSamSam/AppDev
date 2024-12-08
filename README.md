@@ -25,6 +25,8 @@ npm i react-modal
 ex. 
 npm i @mui/material @mui/emotion
 
+npm install @google/generative-ai
+
 ------------------------------------------
 //for backend:
 
